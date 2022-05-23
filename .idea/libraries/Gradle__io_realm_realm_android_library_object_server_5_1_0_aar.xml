@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: io.realm:realm-android-library-object-server:5.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d0c44c67c9ec7757013755d64018198d/jetified-realm-android-library-object-server-5.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5885b1d9463dde2ce62451b014da8383/transformed/jetified-realm-android-library-object-server-5.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5885b1d9463dde2ce62451b014da8383/transformed/jetified-realm-android-library-object-server-5.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5885b1d9463dde2ce62451b014da8383/transformed/jetified-realm-android-library-object-server-5.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.1.0/7d4a12692c0d34bf007d483dba3345f224fbae0b/realm-android-library-object-server-5.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.1.0/236b53afc2c0aba17e4831232015f27e7bccc265/realm-android-library-object-server-5.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

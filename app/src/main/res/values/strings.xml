@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">M-Flix</string>
+    <string name="search_film">Cari Film Apa?</string>
+
+    <string name="stambuk_maulana">F55119028</string>
+    <string name="stambuk_claudio">F55119036</string>
+    <string name="stambuk_nadia">F55119001</string>
+    <string name="stambuk_jafar">F55119119</string>
+
+    <string name="nama_maulana">Maulana Adnan Khalid</string>
+    <string name="nama_claudio">Claudio Holieandy Kasim</string>
+    <string name="nama_nadia">Nadia Venda Setovi</string>
+    <string name="nama_jafar">Jafar Umar Cholik</string>
+
+    <string name="desc_maulana">Hello nama saya Maulana Adnan Khalid Stambuk F55119028 Kelas A, saya tinggal di Jalan Lorong Gelatik No.23 Palu. Hobi saya bermain bulu tangkis dan makanan favorit saya Nasi Goreng</string>
+    <string name="desc_claudio">Hello nama saya Claudio Holieandy Kasim Stambuk F55119036 Kelas A, saya tinggal di Jalan Untad 1 BTN Vatutela Blok M Palu Hobi saya bermain game online dan makanan favorit saya Ayam Goreng</string>
+    <string name="desc_nadia">Hello nama saya Nadia Venda Setovi Stambuk F55119001 Kelas A, saya tinggal di Jalan Kampung Nelayan. Palu Hobi saya memasak dan makanan favorit saya Bakso</string>
+    <string name="desc_jafar">Hello nama Saya Jafar Umar Cholik Stambuk F55119119 Kelas A, saya tinggal di Palupi. Hobi saya bermain main futsal dan makanan favorit saya Nasi Padang</string>
+
+</resources>

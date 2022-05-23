@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/M-Flix/app/src/main/res/drawable-mdpi/roundstyle.xml" value="0.2405" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/M-Flix/app/src/main/res/drawable/bg_rounded.xml" value="0.2405" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/M-Flix/app/src/main/res/drawable/buttonround.xml" value="0.2405" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/M-Flix/app/src/main/res/drawable/roundstyle.xml" value="0.2405" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/M-Flix/app/src/main/res/drawable/tab_fav_color.xml" value="0.2405" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/M-Flix/app/src/main/res/drawable/tab_profile_color.xml" value="0.2405" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/M-Flix/app/src/main/res/layout/activity_login.xml" value="0.38697916666666665" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/M-Flix/app/src/main/res/layout/activity_main.xml" value="0.381025641025641" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/M-Flix/app/src/main/res/layout/activity_mflix.xml" value="0.38697916666666665" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/M-Flix/app/src/main/res/layout/activity_register.xml" value="0.38697916666666665" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/M-Flix/app/src/main/res/layout/activity_setting.xml" value="0.38697916666666665" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/M-Flix/app/src/main/res/layout/activity_splash.xml" value="0.38697916666666665" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/M-Flix/app/src/main/res/layout/activity_text.xml" value="0.38697916666666665" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/M-Flix/app/src/main/res/layout/fragment_profile.xml" value="0.38697916666666665" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/M-Flix/app/src/main/res/layout/status_bar.xml" value="0.38697916666666665" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/M-Flix/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2405" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/M-Flix/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.209" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/Movie Catalogue/app/src/main/res/drawable/design_header.xml" value="0.2405" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/Movie Catalogue/app/src/main/res/layout/activity_detail.xml" value="0.38697916666666665" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/Movie Catalogue/app/src/main/res/layout/activity_main.xml" value="0.381025641025641" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/Movie Catalogue/app/src/main/res/layout/activity_setting.xml" value="0.38697916666666665" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/Movie Catalogue/app/src/main/res/layout/fragment_favorite.xml" value="0.38697916666666665" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/Movie Catalogue/app/src/main/res/layout/fragment_favorite_film.xml" value="0.38697916666666665" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/Movie Catalogue/app/src/main/res/layout/fragment_film.xml" value="0.38697916666666665" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/Movie Catalogue/app/src/main/res/layout/list_item_film.xml" value="0.38697916666666665" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/Movie Catalogue/app/src/main/res/layout/toolbar_main.xml" value="0.3671794871794872" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/Movie Catalogue/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.209" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

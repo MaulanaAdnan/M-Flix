@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="15dp"
+    android:background="@color/colorPrimaryDark"
+    tools:context=".fragment.FragmentProfile"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/Maulana"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="25dp"
+        android:padding="10dp"
+        android:background="@color/colorPrimary"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/iv_Maulana"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:src="@drawable/maulana"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="30dp"
+            android:text="@string/nama_maulana"
+            android:textColor="@color/colorBlue"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_toRightOf="@id/iv_Maulana"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="60dp"
+            android:text="@string/stambuk_maulana"
+            android:textColor="@color/colorBlue"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_toRightOf="@id/iv_Maulana"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/desc_maulana"
+            android:textColor="@color/white"
+            android:layout_marginTop="7dp"
+            android:ellipsize="end"
+            android:textSize="14sp"
+            android:justificationMode="inter_word"
+            android:layout_below="@id/iv_Maulana"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/Claudio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="25dp"
+        android:padding="10dp"
+        android:background="@color/colorPrimary"
+        android:layout_below="@id/Maulana"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/iv_Claudio"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:src="@drawable/claudio"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="30dp"
+            android:text="@string/nama_claudio"
+            android:textColor="@color/colorBlue"
+            android:textSize="19sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_toRightOf="@id/iv_Claudio"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="60dp"
+            android:text="@string/stambuk_claudio"
+            android:textColor="@color/colorBlue"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:layout_toRightOf="@id/iv_Claudio"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/desc_claudio"
+            android:textColor="@color/white"
+            android:layout_marginTop="7dp"
+            android:ellipsize="end"
+            android:textSize="14sp"
+            android:justificationMode="inter_word"
+            android:layout_below="@id/iv_Claudio"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/Nadia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="25dp"
+        android:padding="10dp"
+        android:background="@color/colorPrimary"
+        android:layout_below="@id/Claudio"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/iv_Nadia"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:src="@drawable/nadia"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="30dp"
+            android:text="@string/nama_nadia"
+            android:textColor="@color/colorBlue"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_toRightOf="@id/iv_Nadia"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="60dp"
+            android:text="@string/stambuk_nadia"
+            android:textColor="@color/colorBlue"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_toRightOf="@id/iv_Nadia"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/desc_nadia"
+            android:textColor="@color/white"
+            android:layout_marginTop="7dp"
+            android:ellipsize="end"
+            android:textSize="14sp"
+            android:justificationMode="inter_word"
+            android:layout_below="@id/iv_Nadia"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/Jafar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="75dp"
+        android:padding="10dp"
+        android:background="@color/colorPrimary"
+        android:layout_below="@id/Nadia"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/iv_Jafar"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:src="@drawable/jafar"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="30dp"
+            android:text="@string/nama_jafar"
+            android:textColor="@color/colorBlue"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_toRightOf="@id/iv_Jafar"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="60dp"
+            android:text="@string/stambuk_jafar"
+            android:textColor="@color/colorBlue"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_toRightOf="@id/iv_Jafar"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/desc_jafar"
+            android:textColor="@color/white"
+            android:layout_marginTop="7dp"
+            android:ellipsize="end"
+            android:textSize="14sp"
+            android:justificationMode="inter_word"
+            android:layout_below="@id/iv_Jafar"/>
+    </RelativeLayout>
+
+</LinearLayout>
+
+</ScrollView>
